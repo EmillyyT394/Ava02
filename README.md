@@ -1,23 +1,22 @@
-# 📸 Memories Gallery
+# Memories Gallery
 
 O **Memories Gallery** é um aplicativo mobile desenvolvido em **React Native com Expo**, que funciona como um **diário de fotos**.  
 Você pode postar imagens com legendas/anotações, salvar momentos especiais e personalizar seu perfil com foto, nome de usuário e biografia.
 
 ---
 
-## ✨ Funcionalidades
-
-- 📌 **Autenticação simples**: cadastro e login de usuários  
-- 📷 **Postagem de fotos** com legenda/anotações  
-- 👤 **Perfil personalizável**:
+## Funcionalidades
+ **Autenticação simples**: cadastro e login de usuários  
+ **Postagem de fotos** com legenda/anotações  
+ **Perfil personalizável**:
   - Nome de usuário
   - Biografia
   - Foto de perfil  
-- 🖼 **Galeria de memórias** organizada por postagens  
+ **Galeria de memórias** organizada por postagens  
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - [React Native](https://reactnative.dev/)  
 - [Expo](https://expo.dev/)  
@@ -25,7 +24,7 @@ Você pode postar imagens com legendas/anotações, salvar momentos especiais e 
 
 ---
 
-## 🚀 Como Rodar o Projeto
+## Como Rodar o Projeto
 
 ### Pré-requisitos
 - [Node.js](https://nodejs.org/) instalado  
